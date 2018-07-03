@@ -1,0 +1,20 @@
+{
+  "name": "@whcg/whcg-period-amplifier",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "author": "whcg",
+  "license": "ISC",
+  "description": "",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@polymer/polymer": "*"
+  },
+  "dependencies": {}
+}
